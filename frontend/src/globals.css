@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* :root {
+  --primary: 180, 47%, 31%;
+  --primary-foreground: 0, 0%, 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+} */
